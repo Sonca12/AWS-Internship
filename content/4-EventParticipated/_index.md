@@ -39,13 +39,3 @@ During my internship, I participated in four events. Each one was a memorable ex
 
 &emsp;**Role:** Attendee  
 
----
-
-### [Event 4](4.4-Event4/)  
-&emsp;**Event Name:** FCAJ COMMUNITY DAY - "DATA DRIVEN, AI RISEN"  
-
-&emsp;**Date & Time:** 09:00, Saturday, June 27, 2026  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendee  
