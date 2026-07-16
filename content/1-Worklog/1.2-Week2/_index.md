@@ -1,5 +1,5 @@
 ---
-title: "Day 2"
+title: "Week 2"
 date: 2026-06-08
 weight: 2
 chapter: false
@@ -8,11 +8,11 @@ pre: " <b> 1.2. </b> "
 
 # Work Log: Advanced Cost Auditing, Multi-Tier Monitoring, and Core Infrastructure Concepts
 
-> **Day 2 - Monday, June 08, 2026:** Designed a multi-layered cost alerting system, established an operational emergency response protocol, and studied core cloud architecture and security principles.
+> **Week 2 - Monday, June 08, 2026:** Designed a multi-layered cost alerting system, established an operational emergency response protocol, and studied core cloud architecture and security principles.
 
 ---
 
-### Objectives for the Day
+### Objectives for the Week
 
 - Implement a **Multi-Level Monitoring System** to prevent unexpected billing.
 - Deploy **Cost Anomaly Detection** and resource tagging policies for granular expense tracking.
@@ -31,7 +31,7 @@ To ensure comprehensive cost visibility, I established three distinct budgets in
 |---|---|---|
 | **Monthly Cap Budget** | $40.00 / month | Alert at 80% ($32.00) actual spend |
 | **Warning Budget** | $20.00 / month | Alert at 50% ($10.00) actual spend |
-| **Daily Safeguard Budget** | $5.00 / day | Alert at 100% ($5.00) actual spend |
+| **Daily Safeguard Budget** | $5.00 / week | Alert at 100% ($5.00) actual spend |
 
 The daily budget acts as a rapid-response check, detecting runaway workloads within 24 hours rather than allowing costs to accumulate over a month.
 
@@ -164,7 +164,7 @@ aws ec2 describe-addresses \
 
 ---
 
-### Day 2 Key Takeaways
+### Week 2 Key Takeaways
 
 1. **Defense-in-Depth Cost Strategy:** A layered alerting system (Budgets + Billing Alarms + Anomaly Detection) provides comprehensive coverage against unexpected charges.
 2. **Tagging Integrity:** Resource tagging is essential for cost management; untagged resources make it difficult to trace billing anomalies.
