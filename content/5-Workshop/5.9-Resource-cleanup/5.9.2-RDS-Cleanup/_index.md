@@ -31,4 +31,4 @@ To release the persistent database instances and stop incurring pricing charges,
 
 #### RDS Database Deletion Evidence:
 
-![RDS Delete](/images/5-Workshop/5.9-Resource-cleanup/rds-delete.png)
+![RDS Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/rds-delete.png)

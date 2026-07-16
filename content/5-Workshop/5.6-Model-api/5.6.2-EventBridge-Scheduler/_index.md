@@ -158,5 +158,5 @@ The daily batch pipeline can be automated using one of the following setups:
 
 #### Verification on Amazon EventBridge:
 
-![EventBridge Rule](/images/5-Workshop/5.6-Model-api/eventbridge-schedule.png)
+![EventBridge Rule](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.6-Model-api/eventbridge-schedule.png)
 

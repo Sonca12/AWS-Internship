@@ -36,10 +36,10 @@ Bước cuối cùng là dọn dẹp các dịch vụ serverless tính toán và
 #### Minh chứng dọn dẹp Glue & Lambda:
 
 ##### 1. Xóa Glue ETL Jobs:
-![Glue Delete](/images/5-Workshop/5.9-Resource-cleanup/glue-delete.png)
+![Glue Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/glue-delete.png)
 
 ##### 2. Xóa Lambda Function:
-![Lambda Delete](/images/5-Workshop/5.9-Resource-cleanup/lambda-delete.png)
+![Lambda Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/lambda-delete.png)
 
 ##### 3. Xóa ECR Repository:
-![ECR Delete](/images/5-Workshop/5.9-Resource-cleanup/ecr-delete.png)
+![ECR Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/ecr-delete.png)

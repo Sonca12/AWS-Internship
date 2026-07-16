@@ -216,4 +216,4 @@ Hearing the other speakers - from the hidden DevOps layer beneath every project,
 
 ### Event Photos
 
-![AWS First Cloud AI Journey Workshop](/images/event3.JPG)
+![AWS First Cloud AI Journey Workshop](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/event3.JPG)

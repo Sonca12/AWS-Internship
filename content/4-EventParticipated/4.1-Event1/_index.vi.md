@@ -69,4 +69,4 @@ Sau sự kiện, tôi đã tự rút ra một số điểm cần cải thiện n
 
 ### Hình Ảnh Sự Kiện
 
-![Kick-off AWS First Cloud Journey Workforce](/images/event1.jpg)
+![Kick-off AWS First Cloud Journey Workforce](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/event1.jpg)

@@ -27,4 +27,4 @@ To avoid ongoing computational costs from virtual machines and their attached EB
 
 #### EC2 Resource Cleanup Evidence:
 
-![EC2 Terminate](/images/5-Workshop/5.9-Resource-cleanup/ec2-terminate.png)
+![EC2 Terminate](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/ec2-terminate.png)

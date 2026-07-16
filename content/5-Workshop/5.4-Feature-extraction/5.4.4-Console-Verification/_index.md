@@ -12,4 +12,4 @@ After triggering the Glue jobs, we verify the execution status and results on th
 
 1. Access AWS Glue > **ETL jobs** and review the created Glue jobs list to verify the configurations are correct.
 
-![Verify Created ETL Jobs List](/images/5-Workshop/5.4-Feature-extraction/5.4.4-step01-etl-jobs-list.png)
+![Verify Created ETL Jobs List](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.4-step01-etl-jobs-list.png)

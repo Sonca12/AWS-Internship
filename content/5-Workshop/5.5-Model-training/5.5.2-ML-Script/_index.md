@@ -241,6 +241,6 @@ Uploaded label_encoders.pkl successfully to s3://fashion-retail-model-storage/mo
 
 #### Model Training Execution Evidence:
 
-![Model Training Log](/images/5-Workshop/5.5-Model-training/train-log.png)
+![Model Training Log](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.5-Model-training/train-log.png)
 
 

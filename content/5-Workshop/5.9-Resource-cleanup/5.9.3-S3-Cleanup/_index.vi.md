@@ -24,8 +24,8 @@ Amazon S3 yêu cầu tất cả các đối tượng (objects) bên trong bucket
 #### Minh chứng dọn dẹp Amazon S3:
 
 ##### 1. Làm rỗng S3 Bucket:
-![S3 Empty](/images/5-Workshop/5.9-Resource-cleanup/s3-empty.png)
+![S3 Empty](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/s3-empty.png)
 
 ##### 2. Xóa S3 Bucket:
-![S3 Delete](/images/5-Workshop/5.9-Resource-cleanup/s3-delete.png)
+![S3 Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/s3-delete.png)
 

@@ -14,15 +14,15 @@ The initial extraction task is deployed on **AWS Glue Python Shell** to query Po
 
 1. Access the **AWS Glue** service on the AWS Management Console, and select **ETL jobs** on the left navigation menu.
 
-![Open AWS Glue ETL jobs](/images/5-Workshop/5.4-Feature-extraction/5.4.2-step01-glue-console.png)
+![Open AWS Glue ETL jobs](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.2-step01-glue-console.png)
 
 2. Set the Job name in the **Job details** tab as `de-fashion-rds-extract` and select the appropriate IAM Role `de-fashion-glue-role`.
 
-![Configure Job Name and Role](/images/5-Workshop/5.4-Feature-extraction/5.4.2-step03-job-name.png)
+![Configure Job Name and Role](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.2-step03-job-name.png)
 
 3. Configure the **Python version** to `Python 3.9` or later.
 
-![Configure Python Version](/images/5-Workshop/5.4-Feature-extraction/5.4.2-step04-python-version.png)
+![Configure Python Version](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.2-step04-python-version.png)
 
 4. Enter the following Python source code into the Glue Job online script editor:
 
@@ -62,4 +62,4 @@ print("Extract thanh cong!")
 
 5. Scroll down to **Advanced properties** > **Job parameters** to configure database connection parameters and your S3 bucket.
 
-![Configure Job Parameters](/images/5-Workshop/5.4-Feature-extraction/5.4.2-step06-job-parameters.png)
+![Configure Job Parameters](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.2-step06-job-parameters.png)

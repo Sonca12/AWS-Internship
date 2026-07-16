@@ -26,19 +26,19 @@ psql -h training-db.c7846wiue0od.ap-southeast-1.rds.amazonaws.com -p 5432 -U dba
 
 1. Mở phần mềm DBeaver, nhấp vào **Database** > **New Database Connection** và lựa chọn driver là **PostgreSQL**.
 
-![Tạo kết nối mới trong DBeaver](/images/5-Workshop/5.3-Database-setup/5.3.4-step03-dbeaver-newconn.png)
+![Tạo kết nối mới trong DBeaver](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.3-Database-setup/5.3.4-step03-dbeaver-newconn.png)
 
 2. Nhập các thông tin kết nối chi tiết bao gồm Host endpoint, Database name (`fashiondb`), Username (`dbadmin`) và Password.
 
-![Cấu hình thông tin kết nối](/images/5-Workshop/5.3-Database-setup/5.3.4-step04-dbeaver-config.png)
+![Cấu hình thông tin kết nối](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.3-Database-setup/5.3.4-step04-dbeaver-config.png)
 
 3. Nhấp vào nút **Test Connection...** và xác nhận thông báo kết nối thành công (`Connected`).
 
-![Test Connection thành công](/images/5-Workshop/5.3-Database-setup/5.3.4-step05-dbeaver-testconnection.png)
+![Test Connection thành công](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.3-Database-setup/5.3.4-step05-dbeaver-testconnection.png)
 
 4. Thực hiện các bước tương tự cho cơ sở dữ liệu còn lại, đảm bảo DBeaver hiển thị đầy đủ cả hai kết nối cơ sở dữ liệu.
 
-![Cả hai kết nối cơ sở dữ liệu đã sẵn sàng](/images/5-Workshop/5.3-Database-setup/5.3.4-step06-dbeaver-both-connected.png)
+![Cả hai kết nối cơ sở dữ liệu đã sẵn sàng](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.3-Database-setup/5.3.4-step06-dbeaver-both-connected.png)
 
 5. Mở SQL Editor trong DBeaver và chạy đoạn code SQL sau trên CSDL nghiệp vụ (`fashion-rds`) để tạo các bảng mẫu:
 
@@ -68,4 +68,4 @@ CREATE TABLE transactions (
 );
 ```
 
-![Chạy SQL tạo bảng và kiểm tra cấu trúc bảng](/images/5-Workshop/5.3-Database-setup/5.3.4-step08-create-tables.png)
+![Chạy SQL tạo bảng và kiểm tra cấu trúc bảng](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.3-Database-setup/5.3.4-step08-create-tables.png)

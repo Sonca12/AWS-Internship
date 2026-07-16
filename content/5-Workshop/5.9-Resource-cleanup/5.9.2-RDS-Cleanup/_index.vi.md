@@ -31,4 +31,4 @@ pre : " <b> 5.9.2. </b> "
 
 #### Minh chứng dọn dẹp cơ sở dữ liệu RDS:
 
-![RDS Delete](/images/5-Workshop/5.9-Resource-cleanup/rds-delete.png)
+![RDS Delete](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/rds-delete.png)

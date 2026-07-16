@@ -43,5 +43,5 @@ Model training requires a consistent environment, which is deployed as a dedicat
 
 ---
 
-![EC2 Server](/images/5-Workshop/5.5-Model-training/ec2-ml-server.png)
+![EC2 Server](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.5-Model-training/ec2-ml-server.png)
 

@@ -12,4 +12,4 @@ Sau khi kích hoạt chạy thử nghiệm các Glue Jobs, chúng ta tiến hàn
 
 1. Truy cập AWS Glue > **ETL jobs** và kiểm tra danh sách các Glue Jobs đã tạo để đảm bảo cấu hình chính xác.
 
-![Kiểm tra danh sách ETL Jobs đã tạo](/images/5-Workshop/5.4-Feature-extraction/5.4.4-step01-etl-jobs-list.png)
+![Kiểm tra danh sách ETL Jobs đã tạo](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.4-Feature-extraction/5.4.4-step01-etl-jobs-list.png)

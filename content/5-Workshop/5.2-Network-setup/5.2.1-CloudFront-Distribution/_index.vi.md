@@ -12,30 +12,30 @@ Trong phần này, chúng ta sẽ tạo một CloudFront Distribution để phâ
 
 1. **Bước 1:** Truy cập vào AWS Management Console, tại thanh tìm kiếm nhập "cloudfront" và chọn dịch vụ **CloudFront**.
    
-   ![CloudFront Search](/images/5-Workshop/5.2-Network-setup/1-Step1.png)
+   ![CloudFront Search](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step1.png)
 2. **Bước 2:** Tại giao diện CloudFront Distributions, nhấn nút **Create distribution**. Trong phần **Step 1: Choose a plan**, chọn gói Free ($0/month) và nhấn **Next**.
    
-   ![Choose Plan](/images/5-Workshop/5.2-Network-setup/1-Step2.png)
+   ![Choose Plan](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step2.png)
 3. **Bước 3:** Tại **Step 2: Get started**, cấu hình các thông số sau:
    * **Distribution name:** Nhập `WebApp-Distribution`.
    * **Distribution type:** Chọn `Single website or app`.
    * Nhấn **Next** để tiếp tục.
    
-   ![Get Started](/images/5-Workshop/5.2-Network-setup/1-Step3.png)
+   ![Get Started](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step3.png)
 4. **Bước 4:** Tại **Step 3: Specify origin**, cấu hình thông tin API Gateway làm nguồn cấp dữ liệu (Origin):
    * **Origin type:** Chọn `API Gateway`.
    * **API Gateway origin:** Nhập địa chỉ endpoint API của bạn (ví dụ: `5e0wzdirtc.execute-api.ap-southeast-1.amazonaws.com`).
    * Nhấn **Next** để tiếp tục.
    
-   ![Specify Origin](/images/5-Workshop/5.2-Network-setup/1-Step4.png)
+   ![Specify Origin](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step4.png)
 5. **Bước 5:** Tại **Step 4: Enable security**, bật tính năng Web Application Firewall (WAF) để bảo vệ ứng dụng khỏi các cuộc tấn công phổ biến:
    * Lựa chọn các chế độ bảo vệ mặc định hoặc Rate limiting để chống tấn công từ chối dịch vụ (DDoS).
    * Nhấn **Next**.
    
-   ![Enable Security](/images/5-Workshop/5.2-Network-setup/1-Step5.png)
+   ![Enable Security](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step5.png)
 6. **Bước 6:** Tại **Step 5: Review and create**, xem lại toàn bộ cấu hình đã thiết lập (Origin, Cache settings, Security) và nhấn nút **Create distribution**.
    
-   ![Review and Create](/images/5-Workshop/5.2-Network-setup/1-Step6.png)
+   ![Review and Create](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step6.png)
 7. **Bước 7:** Sau khi hoàn tất, hệ thống sẽ chuyển hướng về trang danh sách Distributions. Chờ cho đến khi cột **Status** hiển thị trạng thái **Enabled**.
    
-   ![CloudFront Status Enabled](/images/5-Workshop/5.2-Network-setup/1-Step7.png)
+   ![CloudFront Status Enabled](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.2-Network-setup/1-Step7.png)

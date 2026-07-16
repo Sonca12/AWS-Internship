@@ -28,4 +28,4 @@ pre : " <b> 5.9.1. </b> "
 
 #### Minh chứng dọn dẹp máy chủ EC2:
 
-![EC2 Terminate](/images/5-Workshop/5.9-Resource-cleanup/ec2-terminate.png)
+![EC2 Terminate](https://raw.githubusercontent.com/Sonca12/AWS-Internship/main/static/images/5-Workshop/5.9-Resource-cleanup/ec2-terminate.png)
